@@ -1,0 +1,14 @@
+{
+  "name": "lesson-13-databases",
+  "version": "1.0.0",
+  "description": "MongoDB and PostgreSQL Examples",
+  "scripts": {
+    "mongo": "node mongodb-example.js",
+    "postgres": "node postgres-example.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "pg": "^8.11.0",
+    "dotenv": "^16.0.3"
+  }
+}

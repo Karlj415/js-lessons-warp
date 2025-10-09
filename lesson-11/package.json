@@ -1,0 +1,9 @@
+{
+  "name": "lesson-11-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js Fundamentals",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
